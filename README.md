@@ -20,4 +20,5 @@ I believe in the power of consistency. Every script I write, no matter how small
 - 📧 vihaanparab.dev@gmail.com
 - 💻 GitHub: [@VihaanParab](https://github.com/VihaanParab)
 
-- ![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanParab&show_icons=true&theme=radical)
+- ![Vihaan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VihaanParab&show_icons=true&theme=radical)
+  
