@@ -22,5 +22,5 @@ I believe in the power of consistency. Every script I write, no matter how small
 - 💻 GitHub: [@VihaanParab](https://github.com/VihaanParab)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VihaanParab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ffb700&text_color=c0caf5" alt="Vihaan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VihaanParab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ffb700&text_color=c0caf5" alt="Vihaan's GitHub stats" />
 </div>
