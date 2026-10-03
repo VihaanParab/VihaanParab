@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Vihaan Parab
 
-### 🚀 Aspiring Software Engineer | Game Logic Enthusiast
-I am a student developer focused on building a daily habit of coding. My goal is to document my journey through consistent commits and small-scale projects to build a strong technical foundation.
+### 🚀 Aspiring AeroSpace Engineer | Game Logic Enthusiast
+I am a student developer focused on building a daily habit of coding and electronics on TinkerCad. My goal is to document my journey through consistent commits and small-scale projects to build a strong technical foundation.
 
 ---
 
 ### 🛠️ What I'm working on:
 - 🐍 **Python:** Writing daily scripts for automation and problem-solving.
+- 🤖 **C++:** Writing Code Daily for Electronics Projects.
 - 🎮 **Game Logic:** Exploring stealth mechanics and navigation systems.
 - 📈 **Consistency:** Committed to a "Daily Script" challenge to track my growth over the years.
 
